@@ -1,6 +1,8 @@
 # AI-Assistant
 
-# Required Modules-
+Required Modules-
 
 - pyttsx3
-- datetime
+- speech_recognition
+- wikipedia
+
